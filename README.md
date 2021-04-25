@@ -7,6 +7,7 @@ nepshekuev.a.88+py@gmail.com
 https://www.linkedin.com/in/andrey-nepshekuev-5a09b5129/
 
 1) Python Developer Skills:
+
 • Development experience: Web applications, Web-scraping, Telegram/Facebook bots, console utils
 • Languages: Python, HTML, SQL, C++ (Basic)
 • Frameworks: Flask, Django, BootStrap, API
