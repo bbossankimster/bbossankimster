@@ -40,7 +40,7 @@ I have 3 years experience in Python application development.
 </br>Previously, I worked for more than 7 years as IT and Network Engineer
 
 - nepshekuev.a.88+py@gmail.com
-- https://www.linkedin.com/in/andrey-nepshekuev-5a09b5129/
+- https://www.linkedin.com/in/andrey-nepshekuev-5a09b5129/?locale=en_US
 
 Python Developer Skills:
 
@@ -52,11 +52,9 @@ Python Developer Skills:
 - Developer Tools: GitHub, VSCode
 
 IT and Network Engineer Skills:
-- Hands-on experience with routers, switches, firewalls (Cisco/Juniper)
+- Hands-on experience with routers, switches, firewalls (Cisco/Juniper/Mikrotik)
 - Strong knowledge in Network Protocols: IP, BGP, OSPF, Multicast, GRE
 - Troubleshooting and monitoring IT infrastructure by using: iperf, wireshark, tcpdump, Zabbix, Cacti
-- Build virtual Linux servers (VmWare, Proxmox, Xen)
-- Build and manage Linux/Windows servers and components (storage, databases) 
 <!---
 bbossankimster/bbossankimster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
