@@ -6,7 +6,7 @@
 </br>Знания + опыт + интерес + деньги = это про меня
 ----
 3 года работаю Python Developer в автоматизации поддержки IT инфраструктуры
-Ранее работал более 7 лет сетевым и IT инженером.
+</br>Ранее работал более 7 лет сетевым и IT инженером.
 
 - nepshekuev.a.88+py@gmail.com
 - https://www.linkedin.com/in/andrey-nepshekuev-5a09b5129/
@@ -37,7 +37,7 @@
 </br>Knowledge + experience + interest + earnings = it's all about me
 ----
 I have 3 years experience in Python application development.
-Previously, I worked for more than 7 years as IT and Network Engineer
+</br>Previously, I worked for more than 7 years as IT and Network Engineer
 
 - nepshekuev.a.88+py@gmail.com
 - https://www.linkedin.com/in/andrey-nepshekuev-5a09b5129/
